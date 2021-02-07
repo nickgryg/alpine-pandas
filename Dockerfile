@@ -1,4 +1,4 @@
-FROM python:3.8.5-alpine3.12
+FROM python:3.8.7-alpine3.13
 
 LABEL maintainer="nickgryg@gmail.com"
 
